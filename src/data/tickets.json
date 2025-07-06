@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Login page bug",
+    "description": "Users are unable to log in with correct credentials.",
+    "status": "open",
+    "priority": "high"
+  },
+  {
+    "id": "2",
+    "title": "UI enhancement",
+    "description": "Improve the dashboard layout for better usability.",
+    "status": "in progress",
+    "priority": "medium"
+  },
+  {
+    "id": "3",
+    "title": "API timeout error",
+    "description": "Data fetch from the server times out intermittently.",
+    "status": "closed",
+    "priority": "high"
+  }
+]
